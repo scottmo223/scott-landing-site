@@ -1,19 +1,19 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: Our Values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Small budget? No problem!
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Getting a website online is a task almost anyone can do for themselves this day in age. But not everyone has the time. We have options for everyone, from the individual to the up and coming business. If you do not see an option that fits your needs, contact us directly and we will do our best to accommodate your needs.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### You have control
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+You are able to directly edit your content through a simple and easy editor. If you want to save time by letting someone else handle your content and posts, we have a monthly subscription you will be happy with! At anytime you are not completely satisfied, let us know and we will do our best to meet your expectations.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Family owned small business atmosphere
+
+If you feel more comfortable with the small business and hometown hospitality, you have come to the right place! We are located right in the middle of the Van, Mineola, Linale, and Tyler areas. Schedule a meeting and we can work out the details in person.
+
+### Flexible payment  plans
+
+Any payment plan that suits you, suits us as well. You can pay online or by check, cash, or card. Ask about your ideal form of payment and we will work it out.
