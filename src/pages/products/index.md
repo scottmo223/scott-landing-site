@@ -1,7 +1,6 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: Scottmo Web Co
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
@@ -71,31 +70,34 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Pricing
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy to get you online. Pricing is fluid and subject to change
+    prior to contract. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: A full website custom made specifically for you
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - Includes a custom domain name (www.yoursite.com)
+        - SEO optimized for high search results
+        - You provide the look and content
+        - Contact us for a quote!
+      plan: Build Me a Website
+      price: 450 - $2500
+    - description: Secure website hosting with full support
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - A secure site (https - not http)
+        - Regular maintenance
+        - Full support and customer service
+        - Recommended with Build Me a Website
+      plan: Host my website
+      price: 50 / mo
+    - description: We take care of all your website and social media content
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - Weekly posts to your social media
+        - Fresh content on your website
+        - Higher online search numbers
+        - Anything else you need!
+      plan: Content Management
+      price: 85 / mo
 ---
+
