@@ -1,6 +1,6 @@
 {
-  "name": "scottmo-web-co",
-  "description": "Scottmo Web Co website and blog",
+  "name": "scott-morales",
+  "description": "Scott Morales portfolio website and blog",
   "version": "0.0.1",
   "author": "Scott Morales",
   "dependencies": {
@@ -31,7 +31,7 @@
     "uuid": "^3.2.1"
   },
   "keywords": [
-    "gatsby", "website", "hosting", "business", "online"
+    "gatsby", "website", "hosting", "business", "online", "developer", "portfolio"
   ],
   "license": "MIT",
   "main": "n/a",

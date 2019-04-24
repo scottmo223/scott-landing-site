@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Scottmo Web Co',
-    description: 'Get online quick and without breaking the bank. We will build your personal or company website, get your mobile application running, and manage all of your content. All without breaking the bank!',
+    title: 'Scott Morales',
+    description: 'Portfolio for Scott Morales. A blog of experiences. Links to projects.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

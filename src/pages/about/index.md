@@ -1,19 +1,16 @@
 ---
-templateKey: about-page
-title: Our Values
+templateKey: 'about-page'
+path: /about
+title: Who is Scott Morales
 ---
-### Small budget? No problem!
+### In love with Gatsby
+I stumbled upon Gatsby toward the end of 2018 and absolutely fell in love with it. I have been tinkering with it and finding websites to build with it ever since. It is truly amazing!
 
-Getting a website online is a task almost anyone can do for themselves this day in age. But not everyone has the time. We have options for everyone, from the individual to the up and coming business. If you do not see an option that fits your needs, contact us directly and we will do our best to accommodate your needs.
+### Working on BS in Computer Science 
+I'm halfway there. It's a long road with three kids and a full time job.
 
-### You have control
+### Full time Policing
+I'm currently a Police Officer working full time. I love what I do and am hopeful that one day I'll use my software knowledge to enhance Policing utilities for Officers everywhere.
 
-You are able to directly edit your content through a simple and easy editor. If you want to save time by letting someone else handle your content and posts, we have a monthly subscription you will be happy with! At anytime you are not completely satisfied, let us know and we will do our best to meet your expectations.
-
-### Family owned small business atmosphere
-
-If you feel more comfortable with the small business and hometown hospitality, you have come to the right place! We are located right in the middle of the Van, Mineola, Linale, and Tyler areas. Schedule a meeting and we can work out the details in person.
-
-### Flexible payment  plans
-
-Any payment plan that suits you, suits us as well. You can pay online or by check, cash, or card. Ask about your ideal form of payment and we will work it out.
+### Interested in your Opportunity
+I love coding, engineering, working on projects. If you have an opportunity, feel free to contact me!

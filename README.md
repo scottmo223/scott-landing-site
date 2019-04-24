@@ -1,4 +1,4 @@
-# Scottmo WebCo
+# Scott Morales Portfolio Website
 
 **Note:** This starter uses [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/).
 
