@@ -1,56 +1,35 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: Scottmo Web Co
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Scottmo Web Co puts your business online! We are great at what we do and will
+  meet or exceed your expectations, guaranteed! 
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        All of our websites are built with efficiency and speed in mind. No
+        extra bloat to slow them down. They will load quickly and not lose your
+        potential customers. Check our post or contact us directly for a quote.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Want a website but never knew how to make one? Maybe your wordpress site
+        is slow and not generating any customers? We are here to help! You can
+        schedule an appointment to meet one on one with your questions. Email us
+        or call for details.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Scottmo Web Co puts your business online! We are great at what we do and
+    will meet or exceed your expectations, guaranteed! 
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: High Quality Website
+  description: >-
+    Are websites are programmed from the ground up using the highest standards
+    and cutting edge technology. Each site is built specifically for each
+    customer. This paired with the local and personal location makes it easy and
+    efficient to communicate exactly what you are looking for.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -61,41 +40,38 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+  - author: Chuck Perez
+    quote: 'This is great, thanks.'
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Pricing
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy to get you online. Pricing is fluid and subject to change
+    prior to contract. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: A full website custom made specifically for you
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - Includes a custom domain name (www.yoursite.com)
+        - SEO optimized for high search results
+        - You provide the look and content
+        - Contact us for a quote!
+      plan: Build Me a Website
+      price: 450 - $2500
+    - description: Secure website hosting with full support
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - A secure site (https - not http)
+        - Regular maintenance
+        - Full support and customer service
+        - Recommended with Build Me a Website
+      plan: Host my website
+      price: 50 / mo
+    - description: We take care of all your website and social media content
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - Weekly posts to your social media
+        - Fresh content on your website
+        - Higher online search numbers
+        - Anything else you need!
+      plan: Content Management
+      price: 85 / mo
 ---
+
