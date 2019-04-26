@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Scottmo Web Co
+title: Scottmo Web Co (hypothetical)
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
