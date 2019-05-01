@@ -28,4 +28,4 @@ To be honest I broke the code several times, but thanks to Git I was able to sta
 
 ## Ok I’ll show it to you…
 
-This site isn't pretty, and neither is the code. I am not a designer by any means. But it was my **first website EVER** and I am very proud of it. Check it out! [www.odemmissions.com](www.odemmissions.com)
+This site isn't pretty, and neither is the code. I am not a designer by any means. But it was my **first website EVER** and I am very proud of it. Check it out! [www.odemmissions.com](https://www.odemmissions.com "My First React Website")
