@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Scott Morales',
-    description: 'Portfolio for Scott Morales. A blog of experiences. Links to projects.',
+    description: 'Learn about Scott Morales: His portfolio, his blog, and links to his projects.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
