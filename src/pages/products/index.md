@@ -1,8 +1,8 @@
 ---
 templateKey: product-page
-title: Scottmo Web Co (hypothetical)
+title: Who Is Scott Morales?
 image: /img/jumbotron.jpg
-heading: What we offer
+heading: What We Offer
 description: >-
   Scottmo Web Co puts your business online! We are great at what we do and will
   meet or exceed your expectations, guaranteed! 

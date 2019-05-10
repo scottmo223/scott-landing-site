@@ -9,11 +9,11 @@ tags:
   - Netlify CMS
   - Learning
 ---
-![chemex](/img/chemex.jpg)
+![chemex](/img/dustin-lee-19667-unsplash.jpg)
 
-## Netlify CMS
+## Netlify CMS.
 
-I cloned this repository from Gatsby’s GitHub as a starter template. I chose this starter because it included Netlify's headless CMS and I wanted to see how it was implemented. I used Netlify CMS in my first Gatsby project and was able to get it up and running pretty easily. Both Netlify and Gatsby have great documentation that is very easy to follow, I recommend trying it out!
+ I cloned this repository from Gatsby’s GitHub as a starter template. I chose this starter because it included Netlify's headless CMS and I wanted to see how it was implemented. I used Netlify CMS in my first Gatsby project and was able to get it up and running pretty easily. Both Netlify and Gatsby have great documentation that is very easy to follow, I recommend trying it out!
 
 ## Comparison
 
