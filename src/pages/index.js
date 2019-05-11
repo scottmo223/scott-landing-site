@@ -4,12 +4,41 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 
 export default class IndexPage extends React.Component {
+  state = {hour: new Date()}
+  
+  componentDidMount(){
+    this.setState({hour: new Date()})
+  }
+
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
+    let greeting = (this.state.hour.toLocaleTimeString('en-US',{hour12: false}) < "12:00:00") ? "Good Morning" : "Good Evening"
 
     return (
       <Layout>
+        <section className="section">
+          <div className="container">
+            <div
+                  className="full-width-image-container margin-top-0"
+                  style={{
+                    background: `no-repeat center/100% url(${this.props.data.headerImage.childImageSharp.fluid.src}`,
+                    alignItems: 'start'
+                  }}
+                >
+                  <h2
+                    className="has-text-weight-bold is-size-1"
+                    style={{
+                      marginTop: '15px',
+                      color: 'white',
+                      padding: '1rem',
+                    }}
+                  >
+                    {greeting}
+                  </h2>
+                </div>
+          </div>
+        </section>
         <section className="section">
           <div className="container">
             <div className="content">
@@ -56,6 +85,13 @@ IndexPage.propTypes = {
 
 export const pageQuery = graphql`
   query IndexQuery {
+    headerImage: file(relativePath: {eq: "topspin.jpg"}) {
+      childImageSharp {
+        fluid(maxWidth: 1900 quality: 100) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
     allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] },
       filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
