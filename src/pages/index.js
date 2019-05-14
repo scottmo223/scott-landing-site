@@ -22,7 +22,7 @@ export default class IndexPage extends React.Component {
             <div
                   className="full-width-image-container margin-top-0"
                   style={{
-                    background: `no-repeat center/100% url(${this.props.data.headerImage.childImageSharp.fluid.src}`,
+                    background: `no-repeat center/100% url(${this.props.data.headerImage.childImageSharp.fluid.src})`,
                     alignItems: 'start'
                   }}
                 >
@@ -31,7 +31,12 @@ export default class IndexPage extends React.Component {
                     style={{
                       marginTop: '15px',
                       color: 'white',
-                      padding: '1rem',
+                      padding: '0px 1.5rem',
+                      position: 'absolute',
+                      top: '18%',
+                      background: '#00000060',
+                      borderRadius: '50px',
+                      fontSize: '6vw !important',
                     }}
                   >
                     {greeting}

@@ -57,7 +57,7 @@ const Navbar = class extends React.Component {
           Contact
         </Link>
       </div>
-      <div className="navbar-end has-text-centered">
+      <div className="navbar-end has-text-centered" style={{margin: "auto 20px"}}>
         <a
           className="navbar-item"
           href="https://www.linkedin.com/in/rscottmorales/"
@@ -69,7 +69,7 @@ const Navbar = class extends React.Component {
           </span>
         </a>
       </div>
-      <div className="navbar-end has-text-centered">
+      <div className="navbar-end has-text-centered" style={{margin: "auto 20px"}}>
         <a
           className="navbar-item"
           href="https://github.com/scottmo223"
