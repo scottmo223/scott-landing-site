@@ -22,21 +22,22 @@ export default class IndexPage extends React.Component {
             <div
                   className="full-width-image-container margin-top-0"
                   style={{
-                    background: `no-repeat center/100% url(${this.props.data.headerImage.childImageSharp.fluid.src})`,
+                    background: `no-repeat center/cover url(${this.props.data.headerImage.childImageSharp.fluid.src})`,
                     alignItems: 'start'
                   }}
                 >
                   <h2
-                    className="has-text-weight-bold is-size-1"
+                    className="has-text-weight-bold"
                     style={{
-                      marginTop: '15px',
                       color: 'white',
                       padding: '0px 1.5rem',
-                      position: 'absolute',
-                      top: '18%',
                       background: '#00000060',
-                      borderRadius: '50px',
                       fontSize: '6vw !important',
+                      textAlign: 'center',
+                      width: '100vw',
+                      minHeight: '70px',
+                      lineHeight: '70px',
+                      fontSize: '2.4em',
                     }}
                   >
                     {greeting}
