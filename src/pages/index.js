@@ -45,6 +45,35 @@ export default class IndexPage extends React.Component {
                 </div>
           </div>
         </section>
+
+        <section className="section">
+          <div className="container">
+            <div className="content">
+              <h1 className="has-text-weight-bold is-size-1 has-text-centered">Previous Works</h1>
+              <div style={{display:'flex', flexFlow: 'row wrap', justifyContent: 'space-around',}}>
+                <a href="http://bellevuetyler.com">
+                  <div style={{
+                    background:`url(${this.props.data.belleVueImage.childImageSharp.fluid.src}) center / contain no-repeat`,
+                    width: '320px',
+                    height: '250px',
+                  }}>
+                  </div>
+                  <h2 className="has-text-centered" style={{marginTop:'0',}}>Belle Vue Venue</h2>
+                </a>
+                <a href="http://odemmissions.com">
+                  <div style={{
+                    background:`url(${this.props.data.odemImage.childImageSharp.fluid.src}) center / contain no-repeat`,
+                    width: '320px',
+                    height: '250px',
+                  }}>
+                  </div>
+                  <h2 className="has-text-centered" style={{marginTop:'0',}}>ODEM Missions</h2>
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <section className="section">
           <div className="container">
             <div className="content">
@@ -98,6 +127,23 @@ export const pageQuery = graphql`
         }
       }
     }
+
+    belleVueImage: file(relativePath: {eq: "bellevuewebsite5.jpg"}) {
+      childImageSharp {
+        fluid(maxWidth: 1900 quality: 100) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+
+    odemImage: file(relativePath: {eq: "odemwebsite1.JPG"}) {
+      childImageSharp {
+        fluid(maxWidth: 1900 quality: 100) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+
     allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] },
       filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
