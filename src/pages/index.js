@@ -23,7 +23,8 @@ export default class IndexPage extends React.Component {
                   className="full-width-image-container margin-top-0"
                   style={{
                     background: `no-repeat center/cover url(${this.props.data.headerImage.childImageSharp.fluid.src})`,
-                    alignItems: 'start'
+                    alignItems: 'start',
+                    height: '80vh',
                   }}
                 >
                   <h2
