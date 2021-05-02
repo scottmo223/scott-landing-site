@@ -2,10 +2,6 @@
 
 **Note:** This starter uses [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/).
 
-This website is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](https://www.netlifycms.org) from **[Gatsby + Netlify CMS Starter](https://github.com/netlify-templates/gatsby-starter-netlify-cms)**.
+I build this website in 2019 in an effort to become familiar with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](https://www.netlifycms.org).
 
-It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment and CDN distribution.
-
-## Getting Started
-
-Feel free to clone this repository, but an easier way to set up Netlify is to use the one-click setup in the **[Gatsby + Netlify CMS Starter](https://github.com/netlify-templates/gatsby-starter-netlify-cms)**.
+While I was in school I did not maintain this at all. It eventually stopped compiling in Netlify. I recently updated it to where it would compile again!
